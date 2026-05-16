@@ -36,23 +36,22 @@ A Python-based packet sniffer that captures TCP, UDP, and ICMP traffic and displ
 # Getting Started
 ## Clone the Repository
 
-```bash
 git clone https://github.com/yourusername/NetShield.git
 cd NetShield
 
-**Notes**
+# Notes
 These tools are intended for educational purposes and authorized local network analysis only.
 Some features may require administrator/root privileges.
 Works best on Linux or controlled lab environments.
 
-**Planned additions**
+# Planned additions
 Port Scanner
 Network Traffic Logger
 Intrusion Detection Features
 GUI-based Monitoring Dashboard
 
-**Disclaimer**
+#  Disclaimer
 This repository is intended strictly for educational and defensive security purposes. Do not use these tools on networks you do not own or have permission to analyze.
 
-**Author**
+#  Author
 Created by Alina Noor Malik
