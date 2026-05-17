@@ -36,7 +36,7 @@ A Python-based packet sniffer that captures TCP, UDP, and ICMP traffic and displ
 # Getting Started
 ## Clone the Repository
 
-git clone https://github.com/yourusername/NetShield.git
+git clone https://github.com/alinanoormalik/NetShield.git
 cd NetShield
 
 # Notes
